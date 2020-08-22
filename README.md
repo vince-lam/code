@@ -1,3 +1,3 @@
 # code
 
-Personal notes from the course 'Python for Data Science and Machine Learning Bootcamp'
+Personal notes and projects from progromming courses taken to improve understanding of data science and machine learning.
