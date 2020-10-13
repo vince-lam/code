@@ -1,3 +1,3 @@
 # code
 
-Personal notes and projects from programming courses taken to improve understanding of data science and machine learning.
+Personal notebooks following course notes and other data scientists' examples to improve my own understanding of data science and machine learning.
